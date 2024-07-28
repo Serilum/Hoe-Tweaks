@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "hoetweaks",
-  "version": "3.4",
+  "version": "3.5",
 
   "name": "Hoe Tweaks",
   "description": "Makes various changes to hoe mechanics. Faster crop block breaking, increased hoe radius and be able to un-till soil.",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.21",
     "java": ">=21",
-    "collective": ">=7.61"
+    "collective": ">=7.78"
   },
 
   "custom": {
@@ -44,11 +44,9 @@
 	  " Alister",
 	  " Andrean Olgo",
 	  " aternosorg",
-	  " BirdieMiner",
 	  " Cherriesaurus",
-	  " Jeremy Langford",
 	  " Michael W. S.",
-	  " Rare Students",
+	  " Nahuel Fernandez",
 	  " Shana Gitnick",
 	  " Tyler Behl"
   ]
