@@ -37,4 +37,6 @@ pluginManagement {
 }
 
 rootProject.name = 'Hoe-Tweaks-1,20,1'
-include("Common", "Fabric", "Forge")
+include("Common")
+include("Fabric")
+include("Forge")
