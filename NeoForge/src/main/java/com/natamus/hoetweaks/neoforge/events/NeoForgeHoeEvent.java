@@ -5,9 +5,7 @@ import net.minecraft.world.entity.player.Player;
 import net.neoforged.neoforge.event.entity.player.PlayerEvent;
 import net.neoforged.neoforge.event.entity.player.PlayerInteractEvent;
 import net.neoforged.bus.api.SubscribeEvent;
-import net.neoforged.fml.common.EventBusSubscriber;
 
-@EventBusSubscriber
 public class NeoForgeHoeEvent {
 	@SubscribeEvent
 	public static void onHoeRightClickBlock(PlayerInteractEvent.RightClickBlock e) {
