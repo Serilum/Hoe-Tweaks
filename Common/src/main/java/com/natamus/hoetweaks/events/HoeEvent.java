@@ -11,6 +11,7 @@ import net.minecraft.sounds.SoundEvents;
 import net.minecraft.sounds.SoundSource;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.entity.player.Player;
+import net.minecraft.world.item.component.SwingAnimation;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.Block;
@@ -73,7 +74,7 @@ public class HoeEvent {
 		
 		level.playSound(null, cpos.getX(), cpos.getY(), cpos.getZ(), SoundEvents.HOE_TILL, SoundSource.BLOCKS, 0.5F, 1.0F);
 		
-		player.swing(hand);
+		player.swingAndResetAttackStrength(hand, SwingAnimation.DEFAULT, false);
 		
 		if (!player.isCreative()) {
 			stack.hurtAndBreak(damage, (ServerLevel)level, (ServerPlayer)player, (item) -> { });
