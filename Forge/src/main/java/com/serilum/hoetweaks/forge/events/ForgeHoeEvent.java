@@ -1,6 +1,6 @@
-package com.natamus.hoetweaks.forge.events;
+package com.serilum.hoetweaks.forge.events;
 
-import com.natamus.hoetweaks.events.HoeEvent;
+import com.serilum.hoetweaks.events.HoeEvent;
 import net.minecraft.world.entity.player.Player;
 import net.minecraftforge.event.entity.player.PlayerEvent;
 import net.minecraftforge.event.entity.player.PlayerInteractEvent;

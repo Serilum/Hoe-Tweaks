@@ -1,6 +1,6 @@
-package com.natamus.hoetweaks;
+package com.serilum.hoetweaks;
 
-import com.natamus.hoetweaks.config.ConfigHandler;
+import com.serilum.hoetweaks.config.ConfigHandler;
 
 public class ModCommon {
 

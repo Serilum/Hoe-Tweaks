@@ -1,7 +1,7 @@
-package com.natamus.hoetweaks.config;
+package com.serilum.hoetweaks.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.hoetweaks.util.Reference;
+import com.serilum.hoetweaks.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;

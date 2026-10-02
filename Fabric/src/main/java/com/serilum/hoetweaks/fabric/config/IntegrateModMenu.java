@@ -1,7 +1,7 @@
-package com.natamus.hoetweaks.fabric.config;
+package com.serilum.hoetweaks.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.hoetweaks.util.Reference;
+import com.serilum.hoetweaks.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 

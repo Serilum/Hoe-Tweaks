@@ -1,11 +1,11 @@
-package com.natamus.hoetweaks;
+package com.serilum.hoetweaks;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveBlockEvents;
 import com.natamus.collective.fabric.callbacks.CollectivePlayerEvents;
-import com.natamus.hoetweaks.events.HoeEvent;
-import com.natamus.hoetweaks.util.Reference;
+import com.serilum.hoetweaks.events.HoeEvent;
+import com.serilum.hoetweaks.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.InteractionHand;

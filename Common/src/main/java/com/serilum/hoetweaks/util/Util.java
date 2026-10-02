@@ -1,10 +1,10 @@
-package com.natamus.hoetweaks.util;
+package com.serilum.hoetweaks.util;
 
 import java.util.Iterator;
 
 import com.natamus.collective.functions.BlockFunctions;
 import com.natamus.collective.functions.CompareBlockFunctions;
-import com.natamus.hoetweaks.config.ConfigHandler;
+import com.serilum.hoetweaks.config.ConfigHandler;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.item.HoeItem;

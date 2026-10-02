@@ -1,9 +1,9 @@
-package com.natamus.hoetweaks.events;
+package com.serilum.hoetweaks.events;
 
 import com.natamus.collective.functions.CompareBlockFunctions;
 import com.natamus.collective.services.Services;
-import com.natamus.hoetweaks.config.ConfigHandler;
-import com.natamus.hoetweaks.util.Util;
+import com.serilum.hoetweaks.config.ConfigHandler;
+import com.serilum.hoetweaks.util.Util;
 import net.minecraft.core.BlockPos;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.sounds.SoundSource;

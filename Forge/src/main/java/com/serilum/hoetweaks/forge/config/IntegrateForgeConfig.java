@@ -1,7 +1,7 @@
-package com.natamus.hoetweaks.forge.config;
+package com.serilum.hoetweaks.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.hoetweaks.util.Reference;
+import com.serilum.hoetweaks.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 
